@@ -32,7 +32,7 @@ Previously, I also studied Network Engineering, where I was able to enrich mysel
 </a>
 
 <a href="./Curriculum Vitae 2024.pdf" target="_blank">
- <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=LibreOffice&logoColor=white" style="margin-bottom: 5px; width: 127px;" />
+ <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </div>
 
